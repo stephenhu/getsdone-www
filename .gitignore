@@ -1,0 +1,5 @@
+*.html
+assets/bootstrap
+assets/font-awesome
+.DS_Store
+

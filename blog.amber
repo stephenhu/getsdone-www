@@ -1,0 +1,10 @@
+extends layout
+
+block content
+  import indexbar
+  div.jumbotron
+    div.container
+      h1.display-3 Blog
+      p.lead this is a placeholder for content
+
+  import footerbar

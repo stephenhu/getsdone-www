@@ -1,0 +1,12 @@
+extends layout
+
+block content
+  import indexbar
+  div.jumbotron
+    div.container
+      h1.display-3 About
+      p.lead Getsdone was a project created to keep track of all the over abundant tasks that I had to keep track of.  I later on found that most tasks commonly required collaboration whether with colleagues, friends, or family.  And finally, as all things around me became more complicated, I always sought for ways of simplifying things.  Getsdone was built with these things in mind: simplicity, collaboration, and bringing order to all the chaos in life through analytics and deep insights.
+      p.lead For inquiries, please email us at
+        a[href="mailto:stephen@getsdone.com"] stephen@getsdone.com
+
+  import footerbar
