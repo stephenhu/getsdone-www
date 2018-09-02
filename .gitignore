@@ -1,3 +1,5 @@
+*.gz
+.static.clean
 *.html
 assets/bootstrap
 assets/font-awesome

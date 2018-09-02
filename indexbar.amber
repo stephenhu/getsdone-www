@@ -1,4 +1,4 @@
-nav.navbar.navbar-expand-lg.navbar-light.bg-light
+nav.navbar.navbar-expand-lg.navbar-expand-md.navbar-light.bg-light
   a.navbar-brand[href="/"] Getsdone
   div.collapse.navbar-collapse[id="navbarSupportedContent"]
     ul.navbar-nav.mr-auto

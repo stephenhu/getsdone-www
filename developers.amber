@@ -4,7 +4,7 @@ block content
   import indexbar
   div.jumbotron
     div.container
-      h1.display-3 API
+      h1.display-3 Developers
       p.lead this is a placeholder for content
 
   import footerbar

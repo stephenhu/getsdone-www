@@ -5,7 +5,7 @@ block content
   div.jumbotron
     div.container
       h1.display-3 About
-      p.lead Getsdone was a project created to keep track of all the over abundant tasks that I had to keep track of.  I later on found that most tasks commonly required collaboration whether with colleagues, friends, or family.  And finally, as all things around me became more complicated, I always sought for ways of simplifying things.  Getsdone was built with these things in mind: simplicity, collaboration, and bringing order to all the chaos in life through analytics and deep insights.
+      p.lead Getsdone was a personal project created to keep track of all different sorts of tasks from home and work.  There were plenty of tools for work that were quite sophisticated for managing small to large projects, but often times these were overly cumbersome or too heavyweight.  I wanted something simple yet effective that was built for collaboration in mind.  Life seems to get more complicated, my aim is to try and make things simpler over time.
       p.lead For inquiries, please email us at
         a[href="mailto:stephen@getsdone.com"] stephen@getsdone.com
 

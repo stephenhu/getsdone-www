@@ -18,6 +18,6 @@ footer.container
       h5 Technology
       ul.list-unstyled.text-small
         li
-          a.text-muted[href="/api"] API
+          a.text-muted[href="/developers"] Developers
         li
           a.text-muted[href="/stack"] Stack
