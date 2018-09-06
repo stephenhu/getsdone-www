@@ -6,5 +6,6 @@ block content
     div.container
       h1.display-3 Blog
       p.lead this is a placeholder for content
-
   import footerbar
+  script
+    setMenuActive("blog");

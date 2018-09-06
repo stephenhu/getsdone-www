@@ -5,8 +5,10 @@ block content
   div.jumbotron
     div.container
       h1.display-3 Get stuff done
-      p.lead Simplified task management for everything!  Getsdone is an opinionated task management app that makes adding and tracking tasks simple.  Collaborate with colleagues, friends, family, etc, and also gain valuable insight into progress.  Download the Getsdone app for free today!
+      p.lead Getsdone is an opinionated task management app that makes adding and tracking tasks simple.  Collaborate with colleagues, friends, family, etc, and also gain valuable insight into your effectiveness.  Download the Getsdone app free today!
       hr
-      a[href="/"]
+      a[href="https://itunes.apple.com/us/app/getsdone/id1434715789?ls=1&mt=8"]
         img[src="https://madsportslab.com/assets/images/appstore.svg"]
   import footerbar
+script
+  setMenuActive("home");
