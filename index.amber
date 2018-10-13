@@ -4,11 +4,30 @@ block content
   import indexbar
   div.jumbotron
     div.container
-      h1.display-3 Get stuff done
-      p.lead Getsdone is an opinionated task management app that makes adding and tracking tasks simple.  Collaborate with colleagues, friends, family, etc, and also gain valuable insight into your effectiveness.  Download the Getsdone app free today!
-      hr
-      a[href="https://itunes.apple.com/us/app/getsdone/id1434715789?ls=1&mt=8"]
-        img[src="https://madsportslab.com/assets/images/appstore.svg"]
+      div.row
+        div.col-xl-12.col-lg-12.col-md-12.col-sm-12
+          h1.display-3 Get stuff done
+          p.lead Getsdone is an opinionated task management app that makes adding and tracking tasks simple.  Collaborate with colleagues, friends, family, gain valuable insight into your efficiency.  Download the Getsdone app free today!
+          hr
+          a[href="https://itunes.apple.com/us/app/getsdone/id1434715789?ls=1&mt=8"]
+            img[src="https://madsportslab.com/assets/images/appstore.svg"]
+      br
+      br
+      div.row
+        div.col-xl-6.col-lg-6.col-md-6.col-sm-6
+          img[src="/assets/images/tasks.png"]
+        div.col-xl-6.col-lg-6.col-md-6.col-sm-6
+          img[src="/assets/images/insights.png"]
+      div.row
+        div.col-xl-4.col-lg-4.col-md-4.col-sm-4
+          h1.display-4 Easy to Use
+          p.lead Getsdone's interface is similar to popular social media apps, create tasks as easily as sending tweets.  @someone to assign tasks, create hashtags, set priorities.
+        div.col-xl-4.col-lg-4.col-md-4.col-sm-4
+          h1.display-4 Insightful
+          p.lead Analyze your ability to get things done in real-time, see the last 5 day's progress, average time to close, gain levels as you complete tasks.
+        div.col-xl-4.col-lg-4.col-md-4.col-sm-4
+          h1.display-4 Collaborative
+          p.lead Assign tasks to others, see their progress, get notified, and get things done as a team.
   import footerbar
 script
   setMenuActive("home");
