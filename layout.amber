@@ -4,11 +4,10 @@ html[lang="en"]
     meta[charset="utf-8"]
     meta[name"description"][content="social task management"]
     title getsdone.xyz social task management
-    link[rel="stylesheet"][href="/assets/bootstrap/css/bootstrap.min.css"]
-    link[rel="stylesheet"][href="/assets/font-awesome/font-awesome.min.css"]
-    link[rel="stylesheet"][href="/assets/css/getsdone.css"]
-    link[rel="shortcut icon"][href="/assets/images/favicon.ico"]
-    script[src="/assets/js/getsdone.js"]
+    link[rel="stylesheet"][href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"]
+    link[rel="stylesheet"][href="https://unpkg.com/font-awesome@4.7.0/css/font-awesome.min.css"]
+    link[rel="stylesheet"][href="/css/getsdone.css"]
+    link[rel="shortcut icon"][href="/images/favicon.ico"]
+    script[src="/js/getsdone.js"]
   body
     block content
-    
